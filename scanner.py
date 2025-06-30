@@ -1,6 +1,6 @@
 import shodan
 
-API_KEY = "TpM62Fn0jP2KbifS9r2x19l7v7fXxOG1"  
+API_KEY = "YOUR_API_KEY"  
 
 satellite_keywords = ["vsat", "norsat", "iDirect", "comtech", "satellite uplink"]
 
